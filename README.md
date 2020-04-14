@@ -6,3 +6,5 @@ The Tandy 1000 SmartWatch+ module adds a Clock & Calendar to your 1000. All you 
 I made this design because the original SmartWatch batteries are now mostly dead and can't be replaced. The 1000 SmartWatch+ uses a standard CR1632 Lithium coin cell for long life and easy replacement.
 
 This HX/SX version should fit most Tandy 1000 machines (except the 1000 EX) but was designed for the HX and SX machines. If it physically fits in your 1000, it will work. it should also work in other PC Clones with a 28 Pin Bios ROM chip.
+
+My Store can be found here: https://www.tindie.com/stores/CyberneticSys/
