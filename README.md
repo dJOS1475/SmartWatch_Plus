@@ -7,4 +7,6 @@ I made this design because the original SmartWatch batteries are now mostly dead
 
 This HX/SX version should fit most Tandy 1000 machines (except the 1000 EX) but was designed for the HX and SX machines. If it physically fits in your 1000, it will work. it should also work in other PC Clones with a 28 Pin Bios ROM chip.
 
+Y2K SmartWatch Software is here: https://www.dropbox.com/s/kctqpwzjxgymfz9/smwy2k.zip?dl=0
+
 My Store can be found here: https://www.tindie.com/stores/CyberneticSys/
